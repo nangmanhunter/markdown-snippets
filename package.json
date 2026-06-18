@@ -1,8 +1,16 @@
 {
-  "name": "markdwon-snippets",
-  "displayName": "markdwon-snippets",
-  "description": "Markdown.Snippets",
-  "version": "0.0.1",
+  "publisher": "nangmanhunter-publisher",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nangmanhunter/markdown-snippets.git"
+  },
+
+
+  "name": "nangman-markdown-snippets",
+  "displayName": "nangman-markdown-snippets",
+  "description": "Nangman.Markdown.Snippets",
+  "version": "1.0.0",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.125.0"
   },
@@ -13,7 +21,7 @@
     "snippets": [
       {
         "language": "markdown",
-        "path": "./snippets/snippets.code-snippets"
+        "path": "./snippets/alerts.code-snippets"
       }
     ]
   }

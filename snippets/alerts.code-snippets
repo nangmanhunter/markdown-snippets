@@ -1,0 +1,42 @@
+{
+    "alert-caution": {
+        "prefix": "> [!CAUTION]",
+        "body": [
+            "> [!CAUTION]",
+            "> $1"
+        ],
+        "description": "Alert.Caution"
+    },
+    "alert-important": {
+        "prefix": "> [!IMPORTANT]",
+        "body": [
+            "> [!IMPORTANT]",
+            "> $1"
+        ],
+        "description": "Alert.Important"
+    },
+    "alert-note": {
+        "prefix": "> [!NOTE]",
+        "body": [
+            "> [!NOTE]",
+            "> $1"
+        ],
+        "description": "Alert.Note"
+    },
+    "alert-tip": {
+        "prefix": "> [!TIP]",
+        "body": [
+            "> [!TIP]",
+            "> $1"
+        ],
+        "description": "Alert.Tip"
+    },
+    "alert-warning": {
+        "prefix": "> [!WARNING]",
+        "body": [
+            "> [!WARNING]",
+            "> $1"
+        ],
+        "description": "Alert.Warning"
+    },
+}

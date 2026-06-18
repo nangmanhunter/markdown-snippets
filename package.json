@@ -4,12 +4,10 @@
     "type": "git",
     "url": "https://github.com/nangmanhunter/markdown-snippets.git"
   },
-
-
   "name": "nangman-markdown-snippets",
   "displayName": "markdown-snippets",
   "description": "Nangman.Markdown.Snippets",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "engines": {
     "vscode": "^1.125.0"

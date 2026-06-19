@@ -1,17 +1,12 @@
 # Markdown.Snippets
-<!-- ## Specification
-| snippets | prefix        |
-| :------- | :------------ |
-| alerts   | `alert-caution` |
-| alerts   | `alert-important` |
-| alerts   | `alert-note` | -->
-
-
-## Alert
-- Caution
-- Important
-- Note
-- Tip
-- Warning
-
+## Specification
+| snippets | prefix            |
+| :------- | :---------------- |
+| alerts   | `alert-caution`   |
+|          | `alert-important` |
+|          | `alert-note`      |
+|          | `alert-tip`       |
+|          | `alert-warning`   |
+| details  | `details`         |
+|          | `details-open`    |
 

@@ -1,0 +1,26 @@
+{
+    "details": {
+        "scope": "markdown",
+        "prefix": "details",
+        "body": [
+            "<details>",
+            "    <summary>$1</summary>",
+            "",
+            "$2",
+            "</details>"
+        ],
+        "description": "details"
+    },
+    "details-open": {
+        "scope": "markdown",
+        "prefix": "details-open",
+        "body": [
+            "<details open>",
+            "    <summary>$1</summary>",
+            "",
+            "$2",
+            "</details>"
+        ],
+        "description": "details-open"
+    }
+}

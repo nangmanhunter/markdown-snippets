@@ -1,42 +1,46 @@
 {
     "alert-caution": {
-        "prefix": "> [!CAUTION]",
+        "scope": "markdown",
+        "prefix": "alert-caution",
         "body": [
             "> [!CAUTION]",
             "> $1"
         ],
-        "description": "Alert.Caution"
+        "description": "alert-caution"
     },
     "alert-important": {
-        "prefix": "> [!IMPORTANT]",
+        "scope": "markdown",
+        "prefix": "alert-important",
         "body": [
             "> [!IMPORTANT]",
             "> $1"
         ],
-        "description": "Alert.Important"
+        "description": "alert-important"
     },
     "alert-note": {
-        "prefix": "> [!NOTE]",
+        "scope": "markdown",
+        "prefix": "alert-note",
         "body": [
             "> [!NOTE]",
             "> $1"
         ],
-        "description": "Alert.Note"
+        "description": "alert-note"
     },
     "alert-tip": {
-        "prefix": "> [!TIP]",
+        "scope": "markdown",
+        "prefix": "alert-tip",
         "body": [
             "> [!TIP]",
             "> $1"
         ],
-        "description": "Alert.Tip"
+        "description": "alert-tip"
     },
     "alert-warning": {
-        "prefix": "> [!WARNING]",
+        "prefix": "alert-warning",
         "body": [
             "> [!WARNING]",
             "> $1"
         ],
-        "description": "Alert.Warning"
+        "description": "alert-warning"
     },
 }

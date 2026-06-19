@@ -20,6 +20,10 @@
       {
         "language": "markdown",
         "path": "./snippets/alerts.code-snippets"
+      },
+      {
+        "language": "markdown",
+        "path": "./snippets/details.code-snippets"
       }
     ]
   }

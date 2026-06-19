@@ -1,0 +1,18 @@
+{
+    "checkbox": {
+        "scope": "markdown",
+        "prefix": "checkbox",
+        "body": [
+            "- [ ] $1",
+        ],
+        "description": "checkbox"
+    },
+    "checkbox-checked": {
+        "scope": "markdown",
+        "prefix": "checkbox-checked",
+        "body": [
+            "- [x] $1",
+        ],
+        "description": "checkbox-checked"
+    }
+}

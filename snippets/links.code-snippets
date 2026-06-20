@@ -1,0 +1,18 @@
+{
+    "link-auto": {
+        "scope": "markdown",
+        "prefix": "link-auto",
+        "body": [
+            "<$1>$0"
+        ],
+        "description": "link-auto"
+    },    
+    "link-inline": {
+        "scope": "markdown",
+        "prefix": "link-inline",
+        "body": [
+            "[$1]($2)$0",
+        ],
+        "description": "link-inline"
+    }
+}

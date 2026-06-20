@@ -29,6 +29,11 @@
         "language": "markdown",
         "path": "./snippets/checkboxes.code-snippets"
       }
+      ,
+      {
+        "language": "markdown",
+        "path": "./snippets/links.code-snippets"
+      }
     ]
   }
 }

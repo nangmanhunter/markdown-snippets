@@ -7,7 +7,7 @@
   "name": "nangman-markdown-snippets",
   "displayName": "nangman-markdown-snippets",
   "description": "nangman-markdown-snippets",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "license": "MIT",
   "engines": {
     "vscode": "^1.125.0"

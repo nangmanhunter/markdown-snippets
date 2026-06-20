@@ -5,8 +5,8 @@
     "url": "https://github.com/nangmanhunter/markdown-snippets.git"
   },
   "name": "nangman-markdown-snippets",
-  "displayName": "Nangman.Markdown.Snippets",
-  "description": "Nangman.Markdown.Snippets",
+  "displayName": "nangman-markdown-snippets",
+  "description": "nangman-markdown-snippets",
   "version": "1.4.0",
   "license": "MIT",
   "engines": {
